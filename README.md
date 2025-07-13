@@ -52,5 +52,5 @@ Ternopil, Ukraine
 
 ## 📞 Connect with Me
 
-Feel free to reach out via ![LinkedIn]([https://www.linkedin.com/in/yevhenii-poiaskov-7345b8364/](https://www.linkedin.com/in/yaroslav-hrytsyna-a1a647368/))  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yaroslav-hrytsyna-a1a647368/) 
 I’m open to collaboration, mentorship, or just a friendly tech talk!
